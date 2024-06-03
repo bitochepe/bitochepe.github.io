@@ -7,6 +7,13 @@ const products = [
         acquired: false
     },
     {
+        name: "Kit de limpieza de armas",
+        description: "Ideal que tenga cepillos, seda para limpiar, pasta, lubricante, cepillos de metal, etc.",
+        imageUrl: "https://cdn11.bigcommerce.com/s-bbli6tc1w6/images/stencil/original/products/668/4293/FG-SRS-9MM_PKG_REV221003_WEB__96250.1667924402.jpg?c=2",
+        productUrl: "https://otistec.com/9mm-38-cal-357-pistol-cleaning-kit-with-brass-rod/",
+        acquired: true
+    },
+    {
         name: "Beretta A300 Ultima Patrol",
         description: "Sencilla pero se agradecen accesorios",
         imageUrl: "https://0isznc85bj26dve98q0gl0q.blob.core.windows.net/hybris/images/1400Wx1400H/a300ultimaPatrol_listing001.webp",
