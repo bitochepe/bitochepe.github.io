@@ -31,7 +31,35 @@ const products = [
         name: "Casco AGV K6S",
         description: "En blanco o negro, sin tanto diseño.",
         imageUrl: "https://i.ebayimg.com/images/g/-AoAAOSwzAFkJs8b/s-l1200.jpg",
+        productUrl: "https://www.usa.philips.com/c-m-pe/oneblade-trim-edge-and-shave",
+        acquired: false
+    },
+    {
+        name: "Philips OneBlade",
+        description: "Razuradora electrica, existe la versión pro pero siento que cualquiera esta bien.",
+        imageUrl: "https://m.media-amazon.com/images/I/71jCSVxS9hL._AC_SL1500_.jpg",
         productUrl: "https://www.agv.com/es/es/agv/k6-s-full-face-helmet.html",
+        acquired: false
+    },
+    {
+        name: "Cortinas de cuarto",
+        description: "Quiero oscurecer mi cuarto porque ando intentado crear un espacio mas óptimo para dormir, me faltan unas buenas cortinas para oscurecer y tapar la ventana",
+        imageUrl: "https://m.media-amazon.com/images/I/71aA4icHEhL._AC_UF894,1000_QL80_.jpg",
+        productUrl: "https://www.google.com",
+        acquired: false
+    },
+    {
+        name: "Termo/Pachón",
+        description: "Termo pachon preferiria termo para llevar cosas calientes pero con un pachon salgo (los pachones que tengo ya estan viejos o son feos) y sinceramente no usare cosas calientes muuuy de vez en cuando",
+        imageUrl: "https://walmartgt.vtexassets.com/arquivos/ids/465566/Termo-Mainstays-Doble-Pared-500-ml-1-22126.jpg?v=638419033615200000",
+        productUrl: "https://www.google.com",
+        acquired: false
+    },
+    {
+        name: "Crocs/Chanclas",
+        description: "Para ir a entrenar, ahorita uso los de mi hermano entonces ocupo comprar chanclas o crocs",
+        imageUrl: "https://m.media-amazon.com/images/I/812KFeHotyL._AC_SL1500_.jpg",
+        productUrl: "https://www.crocs.com/",
         acquired: false
     },
     
